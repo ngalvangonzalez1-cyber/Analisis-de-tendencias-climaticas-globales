@@ -28,13 +28,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ## Uso
 
-1.  **Clonar el repositorio:**
-    ```bash
-    git clone https://github.com/tu-usuario/nombre-del-repositorio.git
-    cd nombre-del-repositorio
-    ```
-2.  **Abrir en Google Colab:** Sube el archivo `.ipynb` a tu Google Drive y ábrelo con Google Colab. Alternativamente, puedes abrirlo directamente desde GitHub en Colab.
-3.  **Ejecutar las celdas:** Ejecuta las celdas del cuaderno secuencialmente para replicar el análisis completo.
+1.  **Abrir en Google Colab:** Sube el archivo `.ipynb` a tu Google Drive y ábrelo con Google Colab. Alternativamente, puedes abrirlo directamente desde GitHub en Colab.
+2.  **Subir la base de datos:** Carga el archivo `.csv` al cuaderno de Google Colab para poder visualizar los datos del cuaderno. 
+4.  **Ejecutar las celdas:** Ejecuta las celdas del cuaderno secuencialmente para replicar el análisis completo.
 
 El cuaderno incluye secciones para:
 *   Carga y preprocesamiento de datos.
