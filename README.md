@@ -1,6 +1,16 @@
-# Proyecto-Final-
-
 # Análisis de Tendencias Climáticas Globales (2004–2024)
+
+## Descripción del Proyecto
+
+Este repositorio contiene el código y los análisis de un proyecto enfocado en las tendencias climáticas globales entre los años 2004 y 2024. El objetivo principal es explorar las relaciones y patrones entre el incremento de las emisiones de CO₂, el aumento de la temperatura (global, terrestre, oceánica, ártica), el derretimiento del hielo (aproximado por la anomalía de temperatura ártica) y la transición hacia fuentes de energía renovable.
+
+El proyecto aborda las siguientes preguntas clave:
+
+*   ¿Qué relación existe entre el incremento de CO₂, el aumento de la temperatura y el derretimiento del hielo?
+*   ¿Cómo se relaciona el crecimiento de las energías renovables con la intensidad de las emisiones?
+*   ¿Qué países o regiones muestran cambios climáticos más acelerados?
+*   ¿Cómo varía la transición energética según el nivel de desarrollo socioeconómico?
+*   ¿Cuál es la relación entre el aumento de la temperatura de los océanos y la anomalía de temperatura global?
 
 ## Contenido del Repositorio
 
