@@ -15,8 +15,8 @@ El proyecto aborda las siguientes preguntas clave:
 ## Contenido del Repositorio
 
 *   `global_climate_co2_anomalies.csv`: El conjunto de datos original utilizado en el proyecto.
-*   `[nombre_del_cuaderno].ipynb`: El cuaderno de Google Colab que contiene todo el código fuente, desde la carga de datos hasta el modelado y las conclusiones.
-*   `[nombre_de_las_imágenes_generadas]`: Figuras y gráficos generados durante el análisis exploratorio y la evaluación del modelo (e.g., `1_tendencias_globales.png`, `2_matriz_correlacion.png`, etc.).
+*   `Análisis de tendencias climáticas globales - Grupo 3.ipynb`: El cuaderno de Google Colab que contiene todo el código fuente, desde la carga de datos hasta el modelado y las conclusiones.
+*    Figuras y gráficos generados durante el análisis exploratorio y la evaluación del modelo (e.g., `1_tendencias_globales.png`, `2_matriz_correlacion.png`, etc.).
 
 ## Instalación
 
